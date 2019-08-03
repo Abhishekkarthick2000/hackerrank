@@ -1,0 +1,7 @@
+def num_count (N):
+    i=0
+    for i in range(N) :
+        print (i+1, end ="")
+        i=i+1
+N=int(input())
+num_count(N)
