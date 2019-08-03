@@ -1,0 +1,6 @@
+N=int(input())
+i=0
+if N>i:
+    for i in range(N):
+        print i**2
+        i=i+1
